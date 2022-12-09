@@ -1,3 +1,6 @@
+Live preview at---
+[https://covid19-tracker-42de9.web.app/](https://covid19-tracker-42de9.web.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
